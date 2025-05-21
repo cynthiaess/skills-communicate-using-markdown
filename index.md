@@ -13,3 +13,7 @@ var myVar = "Hello world!";
 <h2>Testing out html</h2>
 <a href="image-link.png" alt="" class="img-responsive">
 ```
+- [x] Making sure to use list syntax
+- [x] Work on github learning
+- [ ] server test meeting
+- [ ] dashboard work
